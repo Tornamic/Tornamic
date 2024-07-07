@@ -19,9 +19,9 @@ Pawn freelancer, C#/++ developer, Lua scripter. I'm open to new projects, collab
 
 ## Languages 🌍
 
-- **Ukrainian**: Native
-- **Russian**: Native
-- **English**: Intermediate
+- 🇺🇦 **Ukrainian**: Native
+- 🇷🇺 **Russian**: Native
+- 🇺🇸 **English**: Intermediate
 
 ## Contact Me 📬
 
