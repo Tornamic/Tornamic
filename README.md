@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm open to new projects, collaborations, and talks about development.
+Pawn freelancer, C#/++ developer, Lua scripter. I'm open to new projects, collaborations, and talks about development.
 
 ## My Skills 💻
 
