@@ -31,6 +31,8 @@ You can contact me on Discord or Telegram:
 
 ## GitHub Stats 📊
 
-![Tornamic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornamic&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornamic&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornamic&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile!
