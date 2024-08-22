@@ -13,6 +13,7 @@ Pawn freelancer, C#/++ developer, Lua scripter. I'm open to new projects, collab
 
 ## Interests 🎮
 
+- **Reverse Engineering**
 - **GTA:SA Modding**
 - **WinForms/WPF Development**
 - **SA-MP Server Development**
