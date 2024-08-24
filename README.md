@@ -1,19 +1,31 @@
 # Welcome to Tornamic's GitHub Profile! 👋
 
-<p align="center">
+<p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/pawn-lang/compiler"><img src="https://img.shields.io/badge/Pawn-5586A4?style=for-the-badge&logo=pawn&logoColor=white"></a>
   <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
+  
 </p>
 
-<p align="center">
+<p>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+  <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-283346?style=for-the-badge&logoColor=white"></a>
-  <a href="https://cheatengine.org/"><img src="https://img.shields.io/badge/Cheat%20Engine-000000?style=for-the-badge&logoColor=white"></a>
+  <a href="https://cheatengine.org/"><img src="https://img.shields.io/badge/Cheat%20Engine-000000?style=for-the-badge&logoColor=white"></a> 
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
+  <a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
+</p>
 </p>
 
 ## About Me
