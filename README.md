@@ -15,6 +15,7 @@
   <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-283346?style=for-the-badge&logoColor=white"></a>
+  <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-FC0000?style=for-the-badge&logoColor=white"></a>
   <a href="https://cheatengine.org/"><img src="https://img.shields.io/badge/Cheat%20Engine-000000?style=for-the-badge&logoColor=white"></a> 
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
