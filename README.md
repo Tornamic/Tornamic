@@ -61,6 +61,11 @@ You can contact me on Discord or Telegram:
 ## Coding time ⏲
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 Thank you for visiting my profile!
