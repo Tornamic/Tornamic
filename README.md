@@ -58,4 +58,9 @@ You can contact me on Discord or Telegram:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornamic&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Coding time ⏲
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Thank you for visiting my profile!
