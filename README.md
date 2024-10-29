@@ -63,7 +63,8 @@ You can contact me on Discord or Telegram:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     30 mins         █████████████████████▓░░░   87.01 %
+Other   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
 ```
 
 <!--END_SECTION:waka-->
