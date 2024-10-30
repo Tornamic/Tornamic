@@ -63,8 +63,11 @@ You can contact me on Discord or Telegram:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     30 mins         █████████████████████▓░░░   87.01 %
-Other   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+C++           2 hrs 43 mins   ████████████▓░░░░░░░░░░░░   51.24 %
+C#            2 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.29 %
+Other         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JavaScript    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
