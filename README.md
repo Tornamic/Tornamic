@@ -31,7 +31,7 @@
 
 ## About Me
 
-Pawn freelancer, C#/++ developer, Lua scripter. I'm open to new projects, collaborations, and talks about development.
+C# && C++ developer, Pawn freelancer, Lua scripter. I'm open to new projects, collaborations, and talks about development.
 
 ## Interests 🎮
 
