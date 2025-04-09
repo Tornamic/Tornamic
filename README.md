@@ -31,14 +31,13 @@
 
 ## About Me
 
-C# && C++ developer, Pawn freelancer, Lua scripter. I'm open to new projects, collaborations, and talks about development.
+C# && C++ developer. I'm open to new projects, collaborations, and talks about development.
 
 ## Interests 🎮
 
 - **Reverse Engineering**
 - **GTA:SA Modding**
 - **WinForms/WPF Development**
-- **SA-MP Server Development**
 
 ## Languages 🌍
 
