@@ -47,8 +47,7 @@ C# && C++ developer, Pawn freelancer, Lua scripter. I'm open to new projects, co
 - 🇺🇸 **English**: Intermediate
 
 ## Contact Me 📬
-
-You can contact me on Discord or Telegram:
+- **Email**: [kirilltymoshchenko59@gmail.com](mailto:kirilltymoshchenko59@gmail.com)
 - **Discord**: tornamic
 - **Telegram**: [tornamic](https://t.me/tornamic)
 
