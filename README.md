@@ -5,7 +5,6 @@
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white"></a>
-  <a href="https://github.com/pawn-lang/compiler"><img src="https://img.shields.io/badge/Pawn-5586A4?style=for-the-badge&logo=pawn&logoColor=white"></a>
   <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
   
 </p>
@@ -31,7 +30,7 @@
 
 ## About Me
 
-C# && C++ developer. I'm open to new projects, collaborations, and talks about development.
+C#/C++ developer, reverse engineer. I'm open to new projects, collaborations, and talks about development.
 
 ## Interests 🎮
 
