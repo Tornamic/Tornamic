@@ -28,26 +28,50 @@
 </p>
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
-C#/C++ developer, reverse engineer. I'm open to new projects, collaborations, and talks about development.
+I'm a passionate C#/C++ developer and reverse engineer with hands-on experience in modding, low-level programming, and network development.  
+Currently focused on GTA:SA internals, reverse engineering, and multiplayer systems.
 
-## Interests 🎮
+## 🧠 Key Skills
 
-- **Reverse Engineering**
-- **GTA:SA Modding**
-- **WinForms/WPF Development**
+- Reverse engineering (IDA Pro, Ghidra, Assembly)  
+- Low-level Windows internals and hooks  
+- Binary patching and analysis of protected desktop software  
+- GTA:SA modding and scripting  
+- SA-MP server development (Pawn, C++, MySQL)  
+- C# desktop development (WinForms, WPF)  
+- Multiplayer systems and real-time synchronization  
 
-## Languages 🌍
+## 🤝 Open To Work
 
-- 🇺🇦 **Ukrainian**: Native
-- 🇷🇺 **Russian**: Native
-- 🇺🇸 **English**: Intermediate
+Looking for new opportunities in game development, reverse engineering, C++, C#, or multiplayer systems.
 
-## Contact Me 📬
-- **Email**: [kirilltymoshchenko59@gmail.com](mailto:kirilltymoshchenko59@gmail.com)
-- **Discord**: tornamic
-- **Telegram**: [tornamic](https://t.me/tornamic)
+## 🔧 Projects
+
+- Active reverse engineering of GTA:SA for modding and research  
+- SA-MP server project: logic in Pawn with C++ plugins, MySQL backend  
+- Analysis of legacy Windows software  
+
+## 🧩 Interests
+
+- Reverse Engineering  
+- GTA:SA Modding  
+- Multiplayer Architecture  
+- Windows Hooking and Injection  
+- Custom tooling for game development  
+
+## 🌍 Languages
+
+- 🇺🇦 **Ukrainian** – Native  
+- 🇷🇺 **Russian** – Native  
+- 🇺🇸 **English** – Intermediate (B1)  
+
+## 📬 Contact Me
+
+- 📧 **Email**: [kirilltymoshchenko59@gmail.com](mailto:kirilltymoshchenko59@gmail.com)  
+- 💬 **Discord**: tornamic  
+- 📱 **Telegram**: [@tornamic](https://t.me/tornamic)
 
 ## GitHub Stats 📊
 
