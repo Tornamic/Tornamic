@@ -47,19 +47,18 @@ Currently focused on GTA:SA internals, reverse engineering, and multiplayer syst
 
 Looking for new opportunities in game development, reverse engineering, C++, C#, or multiplayer systems.
 
-## 🔧 Projects
+## 🔧 Active Projects
 
-- Active reverse engineering of GTA:SA for modding and research  
-- SA-MP server project: logic in Pawn with C++ plugins, MySQL backend  
-- Analysis of legacy Windows software  
+- **[CoopAndreas](https://github.com/Tornamic/CoopAndreas)** — a fresh and unique cooperative multiplayer for GTA:SA  
+  Developing a co-op multiplayer mod for GTA:SA that enables full story mode sync between players.  
+  **Highlights**: full sync of every detail of the game, missions, side activities, NPCs, traffic, world events, and game state.  
+  **Tech stack**: C++, C#, SCM/CLEO, reverse engineering, network programming, low-level programming.
 
-## 🧩 Interests
-
-- Reverse Engineering  
-- GTA:SA Modding  
-- Multiplayer Architecture  
-- Windows Hooking and Injection  
-- Custom tooling for game development  
+- **[NEW YORK TIMES 2010](https://newyork-gta.online/)** — SA-MP-based roleplay project  
+  A large-scale roleplay project built on SA-MP, featuring a fully custom open-world map inspired by New York City.  
+  **Highlights**: unique gameplay systems, custom infrastructure, and an expansive hand-crafted environment.  
+  **Responsibilities**: server-side logic, database integration, plugin development (C++), desktop launcher development (C# + HTML/CSS/JS), and frontend tooling.  
+  **Tech stack**: Pawn, MySQL, C++, reverse engineering, C#, WinForms, WPF, HTML/CSS/JS
 
 ## 🌍 Languages
 
