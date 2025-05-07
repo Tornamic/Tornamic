@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate C#/C++ developer and reverse engineer with hands-on experience in modding, low-level programming, and network development.  
+I'm a passionate C++/C# developer and reverse engineer with hands-on experience in modding, low-level programming, and network development.  
 Currently focused on GTA:SA internals, reverse engineering, and multiplayer systems.
 
 ## 🧠 Key Skills
@@ -41,7 +41,7 @@ Currently focused on GTA:SA internals, reverse engineering, and multiplayer syst
 - GTA:SA modding and scripting  
 - SA-MP server development (Pawn, C++, MySQL)  
 - C# desktop development (WinForms, WPF)  
-- Multiplayer systems and real-time synchronization  
+- Multiplayer systems and real-time synchronization
 
 ## 🤝 Open To Work
 
