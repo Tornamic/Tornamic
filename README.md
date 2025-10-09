@@ -51,7 +51,7 @@ Looking for new opportunities in game development, reverse engineering, C++, C#,
   **Highlights**: full sync of every detail of the game, missions, side activities, NPCs, traffic, world events, and game state.  
   **Tech stack**: C++, C#, SCM/CLEO, reverse engineering, network programming, low-level programming.
 
-## 🕰 Previos Projects
+## 🕰 Previous Projects
 
 - **[NEW YORK TIMES 2010](https://newyork-gta.online/)** — large-scale roleplay project based on SA-MP  
   A custom open-world map inspired by New York City with unique gameplay systems and infrastructure.  
