@@ -6,7 +6,6 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
-  
 </p>
 
 <p>
@@ -26,7 +25,6 @@
   <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
   <a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
 </p>
-</p>
 
 ## 👨‍💻 About Me
 
@@ -39,7 +37,6 @@ Currently focused on GTA:SA internals, reverse engineering, and multiplayer syst
 - Low-level Windows internals and hooks  
 - Binary patching and analysis of protected desktop software  
 - GTA:SA modding and scripting  
-- SA-MP server development (Pawn, C++, MySQL)  
 - C# desktop development (WinForms, WPF)  
 - Multiplayer systems and real-time synchronization
 
@@ -54,10 +51,11 @@ Looking for new opportunities in game development, reverse engineering, C++, C#,
   **Highlights**: full sync of every detail of the game, missions, side activities, NPCs, traffic, world events, and game state.  
   **Tech stack**: C++, C#, SCM/CLEO, reverse engineering, network programming, low-level programming.
 
-- **[NEW YORK TIMES 2010](https://newyork-gta.online/)** — SA-MP-based roleplay project  
-  A large-scale roleplay project built on SA-MP, featuring a fully custom open-world map inspired by New York City.  
-  **Highlights**: unique gameplay systems, custom infrastructure, and an expansive hand-crafted environment.  
-  **Responsibilities**: server-side logic, database integration, plugin development (C++), desktop launcher development (C# + HTML/CSS/JS), and frontend tooling.  
+## 🕰 Previos Projects
+
+- **[NEW YORK TIMES 2010](https://newyork-gta.online/)** — large-scale roleplay project based on SA-MP  
+  A custom open-world map inspired by New York City with unique gameplay systems and infrastructure.  
+  **Responsibilities**: server-side logic, database integration, plugin development (C++), launcher development (C# + HTML/CSS/JS), frontend tooling.  
   **Tech stack**: Pawn, MySQL, C++, reverse engineering, C#, WinForms, WPF, HTML/CSS/JS
 
 ## 🌍 Languages
