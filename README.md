@@ -60,9 +60,9 @@ Looking for new opportunities in game development, reverse engineering, C++, C#,
 
 ## 🌍 Languages
 
-- 🇺🇦 **Ukrainian** – Native  
-- 🇷🇺 **Russian** – Native  
-- 🇺🇸 **English** – Intermediate (B1)  
+- 🇺🇸 **English**
+- 🇺🇦 **Ukrainian**
+- 🇷🇺 **Russian**
 
 ## 📬 Contact Me
 
