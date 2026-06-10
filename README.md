@@ -29,4 +29,4 @@ Reverse engineering, Windows internals, binary patching, game modding, C#/C++ de
 - Discord: tornamic  
 - Telegram: https://t.me/tornamic
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornamic&show_icons=true&theme=dark)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Tornamic&show_icons=true&theme=dark)
