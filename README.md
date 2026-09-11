@@ -11,7 +11,7 @@
 ## About Me
 
 C++/C# developer focused on reverse engineering, low-level systems, and multiplayer.  
-Currently working with GTA:SA internals and custom networking.
+Currently working with GTA:SA internals and custom networking.  
 Studying Software Engineering at Lviv Polytechnic National University.
 
 ## Skills
